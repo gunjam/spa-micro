@@ -1,0 +1,7 @@
+.checkmarx/
+.coverage/
+.DS_Store
+.sonar/
+.nyc_output/
+node_modules/
+npm-debug.log

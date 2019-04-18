@@ -1,0 +1,14 @@
+{
+  "querystring": "spaQuery#",
+  "response": {
+    "200": {
+      "type": "object",
+      "properties": {
+        "spaDate": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    }
+  }
+}

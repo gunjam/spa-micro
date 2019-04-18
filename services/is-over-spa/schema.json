@@ -1,0 +1,13 @@
+{
+  "querystring": "spaQuery#",
+  "response": {
+    "200": {
+      "type": "object",
+      "properties": {
+        "overSpa": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

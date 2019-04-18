@@ -1,0 +1,17 @@
+{
+  "$id": "spaQuery",
+  "type": "object",
+  "properties": {
+    "dateOfBirth": {
+      "type": "string",
+      "format": "date"
+    },
+    "gender": {
+      "type": "string",
+      "enum": [
+        "male",
+        "female"
+      ]
+    }
+  }
+}
